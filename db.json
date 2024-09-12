@@ -1,14 +1,326 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "repeat-scripts": [
+    {
+      "id": 1,
+      "name": "Tess Middleton",
+      "dueDate": "07-03-2024",
+      "medicalAid": "Affinity Health",
+      "originalRXNumber": "012156"
+    },
+    {
+      "id": 2,
+      "name": "Tess Middleton",
+      "dueDate": "07-03-2024",
+      "medicalAid": "Affinity Health",
+      "originalRXNumber": "012156"
+    },
+    {
+      "id": 3,
+      "name": "Tess Middleton",
+      "dueDate": "07-03-2024",
+      "medicalAid": "Affinity Health",
+      "originalRXNumber": "012156"
+    },
+    {
+      "id": 4,
+      "name": "Tess Middleton",
+      "dueDate": "07-03-2024",
+      "medicalAid": "Affinity Health",
+      "originalRXNumber": "012156"
+    },
+    {
+      "id": 5,
+      "name": "Tess Middleton",
+      "dueDate": "07-03-2024",
+      "medicalAid": "Affinity Health",
+      "originalRXNumber": "012156"
+    },
+    {
+      "id": 6,
+      "name": "Tess Middleton",
+      "dueDate": "07-03-2024",
+      "medicalAid": "Affinity Health",
+      "originalRXNumber": "012156"
+    },
+    {
+      "id": 7,
+      "name": "Tess Middleton",
+      "dueDate": "07-03-2024",
+      "medicalAid": "Affinity Health",
+      "originalRXNumber": "012156"
+    },
+    {
+      "id": 8,
+      "name": "Tess Middleton",
+      "dueDate": "07-03-2024",
+      "medicalAid": "Affinity Health",
+      "originalRXNumber": "012156"
+    },
+    {
+      "id": 9,
+      "name": "Tess Middleton",
+      "dueDate": "07-03-2024",
+      "medicalAid": "Affinity Health",
+      "originalRXNumber": "012156"
+    },
+    {
+      "id": 10,
+      "name": "Tess Middleton",
+      "dueDate": "07-03-2024",
+      "medicalAid": "Affinity Health",
+      "originalRXNumber": "012156"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "products-dispensed": [
+    {
+      "id": 1,
+      "productName": "Adco-Simvastatin 40mg",
+      "nappiCode": "01512455",
+      "totalDispensed": "617",
+      "formularyStatus": "Orange"
+    },
+    {
+      "id": 2,
+      "productName": "Adco-Simvastatin 40mg",
+      "nappiCode": "01512455",
+      "totalDispensed": "617",
+      "formularyStatus": "Orange"
+    },
+    {
+      "id": 3,
+      "productName": "Adco-Simvastatin 40mg",
+      "nappiCode": "01512455",
+      "totalDispensed": "617",
+      "formularyStatus": "Orange"
+    },
+    {
+      "id": 4,
+      "productName": "Adco-Simvastatin 40mg",
+      "nappiCode": "01512455",
+      "totalDispensed": "617",
+      "formularyStatus": "Orange"
+    },
+    {
+      "id": 5,
+      "productName": "Adco-Simvastatin 40mg",
+      "nappiCode": "01512455",
+      "totalDispensed": "617",
+      "formularyStatus": "Orange"
+    }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "patients": [
+    {
+      "id": 1,
+      "name": "Dr. Don J. Davies",
+      "legalReference": "8101100000000",
+      "medicalAidNumber": "2003013420",
+      "emailAddress": "thedon81@gmail.com",
+      "phoneNumber": "+27841235689",
+      "creationDate": "07-03-2024",
+      "isMainMember": true,
+      "isGuarantor": true,
+      "profileNumber": "630189",
+      "gender": "male",
+      "age": "43",
+      "address": {
+        "line1": "21 Fair Ave",
+        "line2": "Linden",
+        "line3": "Johannesburg",
+        "line4": "2104"
+      },
+      "medicalAid": {
+        "name": "Discovery Classic Saver",
+        "medicalAidNumber": "2003013420",
+        "dependents": "3",
+        "familyDoctor": "Dr. Weisman, J.L.",
+        "medicalAidOptionCode": "Disck2"
+      },
+      "prescribingDoctor": {
+        "name": "Dr. Weisman, J.L.",
+        "practiceNumber": "512457889",
+        "practiceContact": "0112570812"
+      },
+      "mainMember": {
+        "name": "Dr. Don J. Davies",
+        "idNumber": "8113025719089",
+        "phoneNumber": "+27832410569"
+      },
+      "guarantor": {
+        "name": "Dr. Don J. Davies",
+        "idNumber": "8113025719089",
+        "phoneNumber": "+27832410569"
+      },
+      "messages": [
+        {
+          "date": "02-03-2024",
+          "message": "Patient should pay for R 125121. Copayment applied"
+        }
+      ],
+      "allergies": ["Nuts", "Penicillin", "Codeine"],
+      "scriptHistory": [
+        {
+          "id": 1,
+          "name": "Myprodol Caps",
+          "quantity": "30",
+          "reQuantity": "0",
+          "RXNumber": "12512",
+          "dateClaimed": "10-02-2024",
+          "doctor": "Pharmacy"
+        },
+        {
+          "id": 2,
+          "name": "Myprodol Caps",
+          "quantity": "30",
+          "reQuantity": "0",
+          "RXNumber": "12512",
+          "dateClaimed": "10-02-2024",
+          "doctor": "Pharmacy"
+        },
+        {
+          "id": 3,
+          "name": "Myprodol Caps",
+          "quantity": "30",
+          "reQuantity": "0",
+          "RXNumber": "12512",
+          "dateClaimed": "10-02-2024",
+          "doctor": "Pharmacy"
+        },
+        {
+          "id": 4,
+          "name": "Myprodol Caps",
+          "quantity": "30",
+          "reQuantity": "0",
+          "RXNumber": "12512",
+          "dateClaimed": "10-02-2024",
+          "doctor": "Pharmacy"
+        },
+        {
+          "id": 5,
+          "name": "Myprodol Caps",
+          "quantity": "30",
+          "reQuantity": "0",
+          "RXNumber": "12512",
+          "dateClaimed": "10-02-2024",
+          "doctor": "Pharmacy"
+        },
+        {
+          "id": 6,
+          "name": "Myprodol Caps",
+          "quantity": "30",
+          "reQuantity": "0",
+          "RXNumber": "12512",
+          "dateClaimed": "10-02-2024",
+          "doctor": "Pharmacy"
+        },
+        {
+          "id": 7,
+          "name": "Myprodol Caps",
+          "quantity": "30",
+          "reQuantity": "0",
+          "RXNumber": "12512",
+          "dateClaimed": "10-02-2024",
+          "doctor": "Pharmacy"
+        },
+        {
+          "id": 8,
+          "name": "Myprodol Caps",
+          "quantity": "30",
+          "reQuantity": "0",
+          "RXNumber": "12512",
+          "dateClaimed": "10-02-2024",
+          "doctor": "Pharmacy"
+        },
+        {
+          "id": 9,
+          "name": "Myprodol Caps",
+          "quantity": "30",
+          "reQuantity": "0",
+          "RXNumber": "12512",
+          "dateClaimed": "10-02-2024",
+          "doctor": "Pharmacy"
+        },
+        {
+          "id": 10,
+          "name": "Myprodol Caps",
+          "quantity": "30",
+          "reQuantity": "0",
+          "RXNumber": "12512",
+          "dateClaimed": "10-02-2024",
+          "doctor": "Pharmacy"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Anna Merlouw",
+      "legalReference": "8101100000000",
+      "medicalAidNumber": "",
+      "emailAddress": "",
+      "phoneNumber": "+27",
+      "creationDate": "06-03-2024"
+    },
+    {
+      "id": 3,
+      "name": "Jenny du Port",
+      "legalReference": "8101100000000",
+      "medicalAidNumber": "",
+      "emailAddress": "",
+      "phoneNumber": "+27",
+      "creationDate": "06-03-2024"
+    },
+    {
+      "id": 4,
+      "name": "Nikki Delport",
+      "legalReference": "8101100000000",
+      "medicalAidNumber": "",
+      "emailAddress": "",
+      "phoneNumber": "+27",
+      "creationDate": "06-03-2024"
+    },
+    {
+      "id": 5,
+      "name": "Anna Merlouw",
+      "legalReference": "8101100000000",
+      "medicalAidNumber": "2003013420",
+      "emailAddress": "",
+      "phoneNumber": "+27",
+      "creationDate": "05-03-2024"
+    },
+    {
+      "id": 6,
+      "name": "Nikki Delport",
+      "legalReference": "8101100000000",
+      "medicalAidNumber": "",
+      "emailAddress": "",
+      "phoneNumber": "+27",
+      "creationDate": "04-03-2024"
+    },
+    {
+      "id": 7,
+      "name": "Anna Merlouw",
+      "legalReference": "8101100000000",
+      "medicalAidNumber": "",
+      "emailAddress": "",
+      "phoneNumber": "+27",
+      "creationDate": "04-03-2024"
+    },
+    {
+      "id": 8,
+      "name": "Nikki Delport",
+      "legalReference": "8101100000000",
+      "medicalAidNumber": "",
+      "emailAddress": "",
+      "phoneNumber": "+27",
+      "creationDate": "02-03-2024"
+    },
+    {
+      "id": 9,
+      "name": "Jenny du Port",
+      "legalReference": "8101100000000",
+      "medicalAidNumber": "2003013420",
+      "emailAddress": "",
+      "phoneNumber": "+27",
+      "creationDate": "27-02-2024"
+    }
+  ]
 }
