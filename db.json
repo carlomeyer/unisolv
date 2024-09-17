@@ -248,6 +248,41 @@
           "dateClaimed": "10-02-2024",
           "doctor": "Pharmacy"
         }
+      ],
+      "prescriptions": [
+        {
+          "id": 1,
+          "medicineName": "Myprodol Caps",
+          "nappiCode": "012",
+          "icd10Code": "DISCK2",
+          "claimCode": "NA",
+          "prescriber": "Dr. Weisman, J.L.",
+          "quantity": "3",
+          "repeatQuantity": "3",
+          "directions": "Take 2 tablets 3 x per day if necessary"
+        },
+        {
+          "id": 2,
+          "medicineName": "Myprodol Caps",
+          "nappiCode": "012",
+          "icd10Code": "DISCK2",
+          "claimCode": "NA",
+          "prescriber": "Dr. Weisman, J.L.",
+          "quantity": "3",
+          "repeatQuantity": "3",
+          "directions": "Take 2 tablets 3 x per day if necessary"
+        },
+        {
+          "id": 3,
+          "medicineName": "Myprodol Caps",
+          "nappiCode": "012",
+          "icd10Code": "DISCK2",
+          "claimCode": "NA",
+          "prescriber": "Dr. Weisman, J.L.",
+          "quantity": "3",
+          "repeatQuantity": "3",
+          "directions": "Take 2 tablets 3 x per day if necessary"
+        }
       ]
     },
     {
