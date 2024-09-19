@@ -163,90 +163,110 @@
           "name": "Myprodol Caps",
           "quantity": "30",
           "reQuantity": "0",
+          "icd10Code": "I10",
           "RXNumber": "12512",
           "dateClaimed": "10-02-2024",
-          "doctor": "Pharmacy"
+          "doctor": "Pharmacy",
+          "medicalAidOptionCode": "POLMP"
         },
         {
           "id": 2,
           "name": "Myprodol Caps",
           "quantity": "30",
           "reQuantity": "0",
+          "icd10Code": "I10",
           "RXNumber": "12512",
           "dateClaimed": "10-02-2024",
-          "doctor": "Pharmacy"
+          "doctor": "Pharmacy",
+          "medicalAidOptionCode": "POLMP"
         },
         {
           "id": 3,
           "name": "Myprodol Caps",
           "quantity": "30",
           "reQuantity": "0",
+          "icd10Code": "I10",
           "RXNumber": "12512",
           "dateClaimed": "10-02-2024",
-          "doctor": "Pharmacy"
+          "doctor": "Pharmacy",
+          "medicalAidOptionCode": "POLMP"
         },
         {
           "id": 4,
           "name": "Myprodol Caps",
           "quantity": "30",
           "reQuantity": "0",
+          "icd10Code": "I10",
           "RXNumber": "12512",
           "dateClaimed": "10-02-2024",
-          "doctor": "Pharmacy"
+          "doctor": "Pharmacy",
+          "medicalAidOptionCode": "POLMP"
         },
         {
           "id": 5,
           "name": "Myprodol Caps",
           "quantity": "30",
           "reQuantity": "0",
+          "icd10Code": "I10",
           "RXNumber": "12512",
           "dateClaimed": "10-02-2024",
-          "doctor": "Pharmacy"
+          "doctor": "Pharmacy",
+          "medicalAidOptionCode": "POLMP"
         },
         {
           "id": 6,
           "name": "Myprodol Caps",
           "quantity": "30",
           "reQuantity": "0",
+          "icd10Code": "I10",
           "RXNumber": "12512",
           "dateClaimed": "10-02-2024",
-          "doctor": "Pharmacy"
+          "doctor": "Pharmacy",
+          "medicalAidOptionCode": "POLMP"
         },
         {
           "id": 7,
           "name": "Myprodol Caps",
           "quantity": "30",
           "reQuantity": "0",
+          "icd10Code": "I10",
           "RXNumber": "12512",
           "dateClaimed": "10-02-2024",
-          "doctor": "Pharmacy"
+          "doctor": "Pharmacy",
+          "medicalAidOptionCode": "POLMP"
         },
         {
           "id": 8,
           "name": "Myprodol Caps",
           "quantity": "30",
           "reQuantity": "0",
+          "icd10Code": "I10",
           "RXNumber": "12512",
           "dateClaimed": "10-02-2024",
-          "doctor": "Pharmacy"
+          "doctor": "Pharmacy",
+          "medicalAidOptionCode": "POLMP"
         },
         {
           "id": 9,
           "name": "Myprodol Caps",
           "quantity": "30",
           "reQuantity": "0",
+          "icd10Code": "I10",
           "RXNumber": "12512",
           "dateClaimed": "10-02-2024",
-          "doctor": "Pharmacy"
+          "doctor": "Pharmacy",
+          "medicalAidOptionCode": "POLMP"
         },
         {
           "id": 10,
           "name": "Myprodol Caps",
           "quantity": "30",
           "reQuantity": "0",
+          "icd10Code": "I10",
           "RXNumber": "12512",
           "dateClaimed": "10-02-2024",
-          "doctor": "Pharmacy"
+          "doctor": "Pharmacy",
+          "medicalAidOptionCode": "POLMP"
         }
       ],
       "prescriptions": [
@@ -259,7 +279,9 @@
           "prescriber": "Dr. Weisman, J.L.",
           "quantity": "3",
           "repeatQuantity": "3",
-          "directions": "Take 2 tablets 3 x per day if necessary"
+          "directions": "Take 2 tablets 3 x per day if necessary",
+          "daysSupply": "30",
+          "price": "98.32"
         },
         {
           "id": 2,
@@ -270,7 +292,9 @@
           "prescriber": "Dr. Weisman, J.L.",
           "quantity": "3",
           "repeatQuantity": "3",
-          "directions": "Take 2 tablets 3 x per day if necessary"
+          "directions": "Take 2 tablets 3 x per day if necessary",
+          "daysSupply": "30",
+          "price": "98.32"
         },
         {
           "id": 3,
@@ -281,7 +305,9 @@
           "prescriber": "Dr. Weisman, J.L.",
           "quantity": "3",
           "repeatQuantity": "3",
-          "directions": "Take 2 tablets 3 x per day if necessary"
+          "directions": "Take 2 tablets 3 x per day if necessary",
+          "daysSupply": "30",
+          "price": "98.32"
         }
       ]
     },
